@@ -231,6 +231,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
+</div>
+<div class="row">
 <div class="col-md-6">
 <h3>Monday, Mar 11</h3>
 <table class="table table-striped">
@@ -255,6 +257,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
+</div>
+<div class="row">
 <div class="col-md-6">
 <h3>Monday, Mar 25</h3>
 <table class="table table-striped">
@@ -279,6 +283,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
+</div>
+<div class="row">
 <div class="col-md-6">
 <h3>Monday, Apr 8</h3>
 <table class="table table-striped">
