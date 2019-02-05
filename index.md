@@ -339,13 +339,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
-{% if page.carpentry == "swc" %}
-  {% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/syllabus.html %}
-{% endif %}
+<div class="row">
+<div class="col-md-6">
+<h3 id="syllabus-r">Programming in R</h3>
+<ul>
+<li>Working with vectors, data frames, and tibbles</li>
+<li>Importing, exploring, and tidying data</li>
+<li>Creating and using scripts and projects</li>
+<li>Working with different R data types</li>
+<li>Modelling</li>
+<li><a href="{{site.swc_pages}}/r-novice-inflammation/reference">Reference...</a></li>
+</ul>
+</div>
+</div>
 
 <hr/>
 
