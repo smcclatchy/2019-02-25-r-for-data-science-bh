@@ -10,11 +10,11 @@ humandate: "Mondays from Feb 25 - Apr 8, 2019"
 humantime: "12:30 - 4:30 pm"
 startdate:  2019-02-25
 enddate: 2019-04-08
-instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Stanley Yang", "Sue McClatchy"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 56333405733
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -341,7 +341,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <div class="row">
 <div class="col-md-6">
-<h3 id="syllabus-r">Programming in R</h3>
+<h3 id="syllabus-r">Data Science in R</h3>
 <ul>
 <li>Working with vectors, data frames, and tibbles</li>
 <li>Importing, exploring, and tidying data</li>
