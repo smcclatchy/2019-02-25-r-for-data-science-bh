@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
-venue: "R for Data Science"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "R for Data Science"
 address: "Breezeway Bioinformatics Training Room, Bldg 1, Unit 5, Room 1540, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
@@ -10,7 +10,7 @@ humandate: "Mondays from Feb 25 - Apr 8, 2019"
 humantime: "12:30 - 4:30 pm"
 startdate:  2019-02-25
 enddate: 2019-04-08
-instructor: ["Dan Gatti", "Stanley Yang", "Sue McClatchy"]
+instructor: ["Dan Gatti", "Selcan Aydin", "Stanley Yang", "Sue McClatchy"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
