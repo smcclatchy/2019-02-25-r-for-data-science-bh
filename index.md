@@ -223,9 +223,8 @@ eventbrite: 56333405733
 <div class="col-md-6">
 <h3>Monday, Mar 4</h3>
 <table class="table table-striped">
-<tr> <td>storm cancellation</td>
+<tr> <td>storm cancellation</td></tr>
 </table>
-</div>
 </div>
 <div class="row">
 <div class="col-md-6">
