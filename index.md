@@ -220,13 +220,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-<div class="col-md-6">
-<h3>Monday, Mar 4</h3>
-<table class="table table-striped">
-<tr> <td>storm cancellation</td></tr>
-</table>
 </div>
-<div class="row">
 <div class="col-md-6">
 <h3>Monday, Mar 11</h3>
 <table class="table table-striped">
@@ -238,7 +232,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-</div>
+<div class="row">
 <div class="col-md-6">
 <h3>Monday, Mar 18</h3>
 <table class="table table-striped">
@@ -251,7 +245,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-<div class="row">
+</div>
 <div class="col-md-6">
 <h3>Monday, Mar 25</h3>
 <table class="table table-striped">
@@ -264,7 +258,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-</div>
+<div class="row">
 <div class="col-md-6">
 <h3>Monday, Apr 1</h3>
 <table class="table table-striped">
@@ -276,7 +270,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-<div class="row">
+</div>
 <div class="col-md-6">
 <h3>Monday, Apr 8</h3>
 <table class="table table-striped">
@@ -290,7 +284,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-</div>
+<div class="row">
 <div class="col-md-6">
 <h3>Monday, Apr 15</h3>
 <table class="table table-striped">
@@ -304,7 +298,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-
+</div>
 
 
 {% comment %}
