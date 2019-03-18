@@ -220,7 +220,6 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-</div>
 <div class="col-md-6">
 <h3>Monday, Mar 11</h3>
 <table class="table table-striped">
@@ -231,6 +230,7 @@ eventbrite: 56333405733
 <tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
+</div>
 </div>
 <div class="row">
 <div class="col-md-6">
@@ -245,7 +245,6 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
-</div>
 <div class="col-md-6">
 <h3>Monday, Mar 25</h3>
 <table class="table table-striped">
@@ -258,6 +257,7 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
+</div>
 <div class="row">
 <div class="col-md-6">
 <h3>Monday, Apr 1</h3>
@@ -269,7 +269,6 @@ eventbrite: 56333405733
 <tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
-</div>
 </div>
 <div class="col-md-6">
 <h3>Monday, Apr 8</h3>
@@ -284,13 +283,13 @@ eventbrite: 56333405733
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
+</div>
 <div class="row">
 <div class="col-md-6">
 <h3>Monday, Apr 15</h3>
 <table class="table table-striped">
 <tr> <td>Holiday</td>  <td>Patriots Day</td> </tr>
 </table>
-</div>
 </div>
 <div class="col-md-6">
 <h3>Monday, Apr 22</h3>
@@ -304,6 +303,7 @@ eventbrite: 56333405733
 <tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
+</div>
 </div>
 
 
