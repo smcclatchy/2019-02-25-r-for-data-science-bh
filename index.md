@@ -288,6 +288,14 @@ eventbrite: 56333405733
 <div class="col-md-6">
 <h3>Monday, Apr 15</h3>
 <table class="table table-striped">
+<tr> <td>Holiday</td>  <td>Patriots Day</td> </tr>
+</table>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<h3>Monday, Apr 22</h3>
+<table class="table table-striped">
 <tr> <td>12:30</td>  <td><a href="https://r4ds.had.co.nz/vectors.html">Vectors</a></td> </tr>
 <tr> <td>13:50</td>  <td><a href="https://r4ds.had.co.nz/iteration.html">Iteration</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
