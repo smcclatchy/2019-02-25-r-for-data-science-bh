@@ -6,7 +6,7 @@ address: "Breezeway Bioinformatics Training Room, Bldg 1, Unit 5, Room 1540, 600
 country: "us"
 language: "en"
 latlng: "44.365336,-68.196283"
-humandate: "Mondays from Feb 25 - Apr 8, 2019"
+humandate: "Mondays from Feb 25 - Apr 22, 2019"
 humantime: "12:30 - 4:30 pm"
 startdate:  2019-02-25
 enddate: 2019-04-08
